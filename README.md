@@ -1,2 +1,1 @@
-# mtc-repo-backend
-backend-mtc-terraform
+# MTC terraform code: This a dev repo is for developers
